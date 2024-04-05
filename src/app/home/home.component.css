@@ -1,0 +1,37 @@
+h1{
+    text-align : center;
+    font-size : 50px;
+    padding : 20px;
+    background-color : red;
+    color : white;
+}
+
+p{
+    font-size : 25px;
+}
+
+#doctor{
+    position : relative;
+    left : 560px;
+    border-radius : 5px;
+    background-color: green;
+    color : white
+}
+
+#admin{
+    position : relative;
+    left : 570px;
+    border-radius : 5px;
+    background-color: green;
+    color : white
+}
+
+#adminpage{
+    position : relative;
+    left : 175px
+}
+
+#doctorpage{
+    position : relative;
+    left : 360px
+}
